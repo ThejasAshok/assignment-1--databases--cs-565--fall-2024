@@ -11,3 +11,9 @@ SOURCE create-user-defined-variables.sql;
 
 SOURCE create-spices-table.sql;
 SOURCE populate-spices-table.sql;
+SOURCE create-spices_purchased-table.sql;
+SOURCE populate-spices_purchased-table.sql;
+SOURCE create-store_add-table.sql;
+SOURCE populate-store_add-table.sql;
+SOURCE create-stores-table.sql;
+SOURCE populate-stores-table.sql;
