@@ -1,7 +1,6 @@
 # Content
 
-## List of Spices and The Name of The Store Where They Were Purchased
-
+## List of Spices and The Name of The Store Where They Were Purchasedgit
 ```sql
 +---------------------------+----------------+--------------+----------+
 | spice_name                | barcode        | store_name   | store_id |
